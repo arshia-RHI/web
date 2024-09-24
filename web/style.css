@@ -1,0 +1,271 @@
+.back1{
+    width: 100%;
+    padding: -40px;
+    display: block;
+}
+.logo1{
+    margin-top: -260px;
+    margin-left: 45%;
+}
+.h1{
+    color: #818283;
+    font-family: arial;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.p1{
+    color:#818283 ;
+    font-family: arial;
+    margin-left: 500px;
+}
+.sp1{
+    margin-left: 110px;
+}
+.ios{
+    color: white;
+    background-color: #26bba5;
+    border: none;
+    border-radius: 60px;
+    width: 165px;
+    height: 40px;
+    margin-left: 580px;
+    margin-top: 20px;
+    box-shadow: 2px 2px  #26bba5;
+    font-weight: bold;
+    font-family: arial;
+}
+.mac{
+    color: white;
+    background-color: #6174ff;
+    border: none;
+    border-radius: 60px;
+    width: 165px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 20px;
+    box-shadow: 2px 2px  #6174ff;
+    font-weight: bold;
+    font-family: arial;
+}
+.ios:hover{
+    cursor: pointer;
+}
+.mac:hover{
+    cursor: pointer;
+}
+.h2{
+    color: #818283;
+    font-family: arial;
+    margin-left: 540px;
+    margin-top: 150px;
+}
+.p2{
+    color: #818283;
+    font-family: arial;
+    margin-left: 450px;
+}
+.sp2{
+    margin-left: 217px;
+}
+.i1{
+    margin-top: 75px;
+}
+.h3{
+    font-family: arial;
+    color: #818283;
+    margin-left: 58%;
+    margin-top: -520px;
+}
+.p3{
+    font-family: arial;
+    color: #818283;
+    margin-left: 58%;
+}
+.h4{
+    font-family: arial;
+    color: #818283;
+    margin-left: 58%;
+    margin-top: 60px;
+}
+.p4{
+    font-family: arial;
+    color: #818283;
+    margin-left: 58%;
+}
+.h5{
+    font-family: arial;
+    color: #818283;
+    margin-left: 58%;
+    margin-top: 60px;
+}
+.p5{
+    font-family: arial;
+    color: #818283;
+    margin-left: 58%;
+}
+.h6{
+    font-family: arial;
+    color: #818283;
+    margin-left: 34%;
+    margin-top: 280px;
+}
+.p6{
+    font-family: arial;
+    color: #818283;
+    margin-left: 29%;
+}
+.sp3{
+    margin-left: 180px;
+}
+.i2{
+    margin-left: 17%;
+    margin-top: 95px;
+}
+.h7{
+    font-family: arial;
+    color: #818283;
+    margin-left: 38%;
+}
+.p7{
+    font-family: arial;
+    color: #818283;
+    margin-left: 41%;
+}
+.h8{
+    font-family: arial;
+    color: #818283;
+    margin-left: 14%;
+    margin-top: 120px;
+}
+.p8{
+    font-family: arial;
+    color: #818283;
+    margin-left: 12%;
+}
+.sp4{
+    margin-left: 114px;
+}
+.logo2{
+    margin-left: 20%;
+    margin-top: -200px;
+}
+.h9{
+    font-family: arial;
+    color: #818283;
+    margin-left: 43%;
+}
+.p9{
+    font-family: arial;
+    color: #818283;
+    margin-left: 43%; 
+}
+.sp5{
+    margin-left: 87px;
+}
+.logo3{
+    margin-top: -170px;
+    margin-left: 51%;
+}
+.h10{
+    font-family: arial;
+    color: #818283;
+    margin-left: 75%;
+}
+.p10{
+    font-family: arial;
+    color: #818283;
+    margin-left: 75%; 
+}
+.sp6{
+margin-left: 120px;
+}
+.logo4{
+    margin-top: -170px;
+    margin-left: 80.5%;
+}
+.pn1{
+margin-top: 20%;
+margin-left: 18%;
+}
+.pn2{
+margin-top: -4%;
+margin-left: 35%;
+}
+.pn3{
+margin-top: -3%;
+margin-left: 50%;
+}
+.pn4{
+margin-top: -2.5%;
+margin-left:65% ;
+}
+.h11{
+    font-family: arial;
+    color: #818283;
+    margin-left: 36%;
+    margin-top: 160px;
+}
+.p11{
+    font-family: arial;
+    color: #818283;
+    margin-left: 31%; 
+}
+.sp7{
+    margin-left: 140px;
+}
+.footer{
+    background-color: #d7d7d8;
+    width: 100%;
+    height: 100%;
+    margin-top: 140px;
+    border-radius: 20px;
+}
+.logofooter{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+}
+.pfooter1{
+color:#818283 ;
+font-family: arial;
+margin-top: -105px;
+margin-left: 300px;
+}
+.pfooter2{
+    color:#818283 ;
+    font-family: arial;
+    margin-top: -40px;
+margin-left: 500px;
+}
+.pfooter3{
+    color:#818283 ;
+    font-family: arial;
+    margin-top: 30px;
+margin-left: 300px;
+}
+.pfooter4{
+    color:#818283 ;
+    font-family: arial;
+    margin-top: -40px;
+    margin-left: 500px;
+
+}
+.pfooter5{
+    color:#818283 ;
+    font-family: arial;
+    margin-top: -90px;
+margin-left: 700px;
+}
+.svg1{
+    margin-left: 80%;
+    margin-top: -30px;
+}
+.svg2{
+    margin-left: 83%;
+    margin-top:-25px ;
+}
+.svg3{
+    margin-left: 86%;
+    margin-top: -25px;
+}
+
